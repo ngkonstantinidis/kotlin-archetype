@@ -1,5 +1,17 @@
 # Kotlin Maven Archetype
 
+A simple archetype to create a skeleton for a maven kotlin project.
+
+## Clone and Build
+
+To use this archetype you should clone this repository and build the project.
+
+```bash
+git clone https://github.com/ngkonstantinidis/kotlin-archetype.git
+cd kotlin-archetype
+mvn clean install
+```
+
 ## Usage
 
 ```bash
