@@ -1,5 +1,7 @@
 [![GitHub (pre-)release](https://img.shields.io/github/release/ngkonstantinidis/kotlin-archetype/all.svg)](https://github.com/ngkonstantinidis/kotlin-archetype/releases)
 
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iluwatar/java-design-patterns/master/LICENSE.md)
+
 # Kotlin Maven Archetype
 
 A simple archetype to create a skeleton for a maven kotlin project.
