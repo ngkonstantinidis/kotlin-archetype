@@ -1,0 +1,11 @@
+<archetype>
+  <id>kotlin-archetype</id>
+  <fileSets>
+    <fileSet filtered="true" encoding="UTF-8">
+      <directory>src/main/kotlin</directory>
+    </fileSet>
+    <fileSet filtered="true" encoding="UTF-8">
+      <directory>src/test/kotlin</directory>
+    </fileSet>
+  </fileSets>
+</archetype>
