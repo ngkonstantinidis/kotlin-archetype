@@ -1,3 +1,5 @@
+[![GitHub (pre-)release](https://img.shields.io/github/release/ngkonstantinidis/kotlin-archetype/all.svg)](https://github.com/ngkonstantinidis/kotlin-archetype/releases)
+
 # Kotlin Maven Archetype
 
 A simple archetype to create a skeleton for a maven kotlin project.
@@ -21,5 +23,5 @@ mvn archetype:generate \
     -Dversion=1.0.0-SNAPSHOT \
     -DarchetypeGroupId=ngk.maven \
     -DarchetypeArtifactId=kotlin-archetype \
-    -DarchetypeVersion=1.0.0-SNAPSHOT
+    -DarchetypeVersion=1.0.0
 ```
